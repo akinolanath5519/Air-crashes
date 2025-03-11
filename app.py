@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
 
-# Custom CSS for styling
+# Custom CSS for styling the dashboard
 st.markdown("""
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
